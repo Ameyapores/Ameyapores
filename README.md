@@ -10,4 +10,4 @@ Thanks for visiting my Github page. Checkout my projects here based for applicat
 
 📫 Contact and publication details 📫
 Website: https://Ameyapores.github.io/
-Mail: ameya.pore@univr.it
+Mail: amey.pore@utoronto.ca
